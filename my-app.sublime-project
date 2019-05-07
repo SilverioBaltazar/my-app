@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"my-app": true,
+			"path": "C:\\laragon\\www\\my-app"
+		},
+		{
+			"Timer": true,
+			"path": "C:\\laragon\\www\\timer-free"
+		}
+	]
+}
